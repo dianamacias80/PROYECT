@@ -5,7 +5,7 @@ html{
     
     
     body{
-    font-family: 14px normal normal uppercase helvetica, arial, serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     }
     
     
@@ -57,7 +57,7 @@ html{
 
 
     .navegacion a{
-    color:rgb(174, 0, 255);
+    color:yellow;
     text-decoration: none ;
     font-size: 2.45rem;
     margin-right: 2rem;
@@ -65,17 +65,17 @@ html{
 
 
     .navegacion a:hover{
-        color:rgb(136, 255, 0);   
+        color:red;   
     }
 
 
     .navegacion2  a:hover{
-    color:rgb(60, 255, 0);
+    color:red;
     }
 
 
     .navegacion2 a{
-    color: rgb(16, 189, 233);
+    color: rgb(37, 128, 25);
     text-decoration: none ;
     font-size: 2.45rem;
     margin-right: 2rem;
@@ -83,17 +83,17 @@ html{
 
 
     .navegacion2  a:hover{
-    color:rgb(11, 184, 63)
+    color:red
     }
 
 
     h1{
-    color:rgb(211, 20, 109);
+    color:green;
     }
     
     .relieve{
     -webkit-text-fill-color: white;
-    -webkit-text-stroke: 3px rgb(189, 40, 77);
+    -webkit-text-stroke: 3px rgb(12, 119, 12);
     font-size:45px;
     }
 
@@ -102,7 +102,7 @@ html{
     text-align: center;
     font-size:25px;
     -webkit-text-fill-color: black;
-    -webkit-text-stroke: 1px rgb(216, 63, 157);
+    -webkit-text-stroke: 1px red;
     
     }
 
@@ -275,6 +275,3 @@ html{
     font-size: 2rem;
     text-justify: auto;
     }
-    
-    
-      
